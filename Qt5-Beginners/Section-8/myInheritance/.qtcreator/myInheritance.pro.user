@@ -137,7 +137,7 @@
      <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph &quot;dwarf,4096&quot; -F 250</value>
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:</value>
-     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/GLB-BLR-304/Downloads/Qt-udemy/Qt5-Beginners/Section-8/myConstructorsAndDeconstructors/myConstructorsAndDeconstructors.pro</value>
+     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/GLB-BLR-304/Downloads/Qt-udemy/Qt5-Beginners/Section-8/myInheritance/myInheritance.pro</value>
      <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
      <value type="QString" key="ProjectExplorer.RunConfiguration.UniqueId"></value>
      <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
@@ -175,7 +175,7 @@
     <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph &quot;dwarf,4096&quot; -F 250</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/GLB-BLR-304/Downloads/Qt-udemy/Qt5-Beginners/Section-8/myConstructorsAndDeconstructors/myConstructorsAndDeconstructors.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/GLB-BLR-304/Downloads/Qt-udemy/Qt5-Beginners/Section-8/myInheritance/myInheritance.pro</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.UniqueId"></value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
