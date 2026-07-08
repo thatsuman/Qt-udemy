@@ -1,3 +1,8 @@
+/*
+ * Author: Suman Mondal <suman.mondal@outlook.in>
+ * Date: 9th July, 2026
+ */
+
 #include <QCoreApplication>
 #include <QDebug>
 
