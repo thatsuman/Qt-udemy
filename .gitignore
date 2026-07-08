@@ -68,5 +68,11 @@ vcpkg_installed/
 Testing/
 .cache/
 
-# Qt Folders
+# Qt 
+# Qt Creator
 *.pro.user
+*.pro.user.*
+*.autosave
+
+# Build directories
+build*/
