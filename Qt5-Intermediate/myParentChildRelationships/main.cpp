@@ -14,6 +14,9 @@ int main(int argc, char *argv[])
             │
             ▼
           Parent (p)
+            │
+            ▼
+          children
         ┌──┬──┬──┬──┬
         0  1  2  3  4
     */
