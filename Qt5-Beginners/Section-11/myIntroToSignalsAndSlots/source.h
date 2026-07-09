@@ -12,6 +12,7 @@ public:
     void test();
 
 signals:
+    // declaration of signals
     void mySignal(QString message);
 };
 

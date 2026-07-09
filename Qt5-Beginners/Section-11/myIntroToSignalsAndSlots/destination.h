@@ -12,6 +12,8 @@ public:
 
 signals:
 
+    // declaration of slots
+    // multiple slots can respond according to one signal
 public slots:
     void onMessage(QString message);
 };

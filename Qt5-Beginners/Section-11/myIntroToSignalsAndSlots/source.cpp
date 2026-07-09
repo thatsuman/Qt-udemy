@@ -8,5 +8,6 @@ source::source(QObject *parent)
 
 void source::test()
 {
+    // emitting the message as signal
     emit mySignal("Hello world");
 }
