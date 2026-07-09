@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
     // connecting signals and slots
     // connect(sender,signal,receiver,slot)
     // Syntax: QObject::connect(sender, &SenderClass::signalName, receiver, &ReceiverClass::slotName);
+
     QObject::connect(&objSource,&source::mySignal,&objDestination,&destination::onMessage);
 
     objSource.test();
