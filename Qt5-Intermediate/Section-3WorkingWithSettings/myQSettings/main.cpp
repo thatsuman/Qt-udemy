@@ -12,10 +12,11 @@ int main(int argc, char *argv[])
 
     QSettings settings(QCoreApplication::organizationName(), QCoreApplication::applicationName());
 
-    // save the setting
-    // settings.setValue("test", 123);
+    // Changing the Org's Name/Domain/AppName will not restore the saved settings
+    // Save the setting
+    settings.setValue("test", 123);
 
-    // Read the setting back
+    // Read/Load the setting back
     qInfo() << settings.value("test").toString();
     qInfo() << settings.value("test").toInt();
 
