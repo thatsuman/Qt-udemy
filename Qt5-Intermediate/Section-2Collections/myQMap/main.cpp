@@ -20,6 +20,7 @@ int main(int argc, char *argv[])
     qInfo() << "Keys: " << map.keys();
 
     // looping through map
+    // Ordered - and a little slower
     for (QString key : map.keys()) {
         qInfo() << key << ":" << map[key];
     }
