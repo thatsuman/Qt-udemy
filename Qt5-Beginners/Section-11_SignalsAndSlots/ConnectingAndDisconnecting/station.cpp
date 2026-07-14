@@ -1,0 +1,10 @@
+#include "station.h"
+
+station::station(QObject *parent, int channel, QString name)
+    : QObject{parent}, channel{channel}, name{name}
+{}
+
+void station::broadcast(QString message)
+{
+   emit send(channel, name, message);
+}
