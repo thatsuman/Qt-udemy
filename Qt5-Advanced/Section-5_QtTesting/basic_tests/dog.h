@@ -29,6 +29,9 @@ private slots:
 
     // Our custom slot to be tested
     void bark();
+
+    // Another custom slot to test
+    void rollover();
 };
 
 #endif // DOG_H

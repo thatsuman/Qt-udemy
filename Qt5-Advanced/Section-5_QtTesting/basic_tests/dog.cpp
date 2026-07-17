@@ -29,3 +29,8 @@ void Dog::bark()
 {
     qInfo() << "bark bark bark";
 }
+
+void Dog::rollover()
+{
+    qInfo() << "rolls";
+}
